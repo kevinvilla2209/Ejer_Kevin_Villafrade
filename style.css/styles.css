@@ -202,7 +202,7 @@ p {
 }
 
 
-.section {
+main {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -309,7 +309,7 @@ p {
     padding: 10px;
 }
 
-.aside, .section {
+.aside, .main {
     width: 100%;
     padding: 10px;
 }
